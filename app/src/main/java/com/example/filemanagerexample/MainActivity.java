@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
 //                if (!file.contains(".")){
 //                    values.add(file);
 //                }
+                //get all value in directory
                     values.add(file);
             }
         }
